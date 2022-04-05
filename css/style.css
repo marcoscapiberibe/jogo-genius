@@ -1,5 +1,5 @@
 body {
-    background-image: url(/image/madeira-marrom-detalhes.jpg);
+    background-image: url(../image/madeira-marrom-detalhes.jpg);
     background-blend-mode: darken;
     background-color: rgba(0, 0, 0, 0.6);
   }
